@@ -6,6 +6,8 @@ Testing for Machine Learning project.
 -This contains the basic instructions for installation of centernet deepsort. After this has been installed change the filepaths on the centernet_deepsort2PROJ.py
  file to meet the requirements to produce a bounded boxed video. A demo video is included with the direct submission.
 
+-the necessary MODEL.pth file and video test file unboxed will be included in the final deliverable.
+
 ## Requirements / Installation
 ```bash
 git clone https://github.com/kimyoon-young/centerNet-deep-sort.git
